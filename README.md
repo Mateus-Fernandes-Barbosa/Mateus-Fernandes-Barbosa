@@ -40,6 +40,6 @@
 
 ## Main Repository:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mateus-fernandes-barbosa&repo=Personal_Projects)](https:https://github.com/Mateus-Fernandes-Barbosa/Personal_Projects.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mateus-fernandes-barbosa&repo=Personal_Projects)](https://github.com/Mateus-Fernandes-Barbosa/Personal_Projects.git)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00F9F0,100:00F080&fontColor=000000&section=footer"/>
