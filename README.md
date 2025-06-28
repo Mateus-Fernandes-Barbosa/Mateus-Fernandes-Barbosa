@@ -40,6 +40,6 @@
 
 ## Most Recent Project:
 
-[![Readme Card](https://github.com/Mateus-Fernandes-Barbosa/SimulatorTomasuloAlgorithm.git)](https://github.com/Mateus-Fernandes-Barbosa/SimulatorTomasuloAlgorithm.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mateus-fernandes-barbosa&repo=SimulatorTomasuloAlgorithm)](https://github.com/Mateus-Fernandes-Barbosa/SimulatorTomasuloAlgorithm.git)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00F9F0,100:00F080&fontColor=000000&section=footer"/>
